@@ -9,6 +9,9 @@ A tiny, dependency-light Python utility that
 - asks every time *“Still this account?”* so you can switch numbers on demand,
 - stores nothing except a local YAML config and the two export files.
 
+<p align="center">
+  <img alt="demo" src="https://raw.githubusercontent.com/MiliScripts/Telegram-Contact-Lister/main/demo.png" width="600"/>
+</p>
 
 ---
 

@@ -1,0 +1,4 @@
+kurigram>=2.0.102
+rich>=13.0.0
+colorama>=0.4.6
+PyYAML>=6.0
